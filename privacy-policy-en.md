@@ -12,7 +12,7 @@ The app **does not collect any personal data** such as name, email address, or p
 
 The app uses the device's location solely for the following purposes:
 
-- To display the distance to nearby tourist attractions and restaurants
+- To display the distance to landmarks, tourist attractions, and restaurants.
 - To assist in providing directions to selected places
 
 Location data is processed **locally on the user's device** and is never sent to any server or stored externally.
