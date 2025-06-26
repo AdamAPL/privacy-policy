@@ -1,8 +1,8 @@
 # Polityka prywatności
 
-Ostatnia aktualizacja: 22 czerwca 2025
+Ostatnia aktualizacja: 27 czerwca 2025
 
-Ta polityka prywatności dotyczy aplikacji **TwojaAplikacja**, dostępnej w App Store.
+Ta polityka prywatności dotyczy aplikacji **Visit Kamień Pomorski**, dostępnej w App Store.
 
 ## 1. Gromadzenie danych
 
@@ -24,4 +24,4 @@ Aplikacja nie korzysta z żadnych usług stron trzecich (takich jak analityka, r
 ## 4. Prawa użytkownika
 
 Ponieważ aplikacja nie gromadzi danych osobowych, nie przechowujemy żadnych informacji, które można by udostępnić lub usunąć.  
-W razie pytań skontaktuj się z nami: [kontakt@example.com](mailto:kontakt@example.com)
+W razie pytań skontaktuj się z nami: [visitkamienpomorski@op.pl](mailto:visitkamienpomorski@op.pl)
