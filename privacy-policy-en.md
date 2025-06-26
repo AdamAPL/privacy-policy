@@ -24,4 +24,4 @@ The app does not use any third-party services (such as analytics, advertising ne
 ## 4. User Rights
 
 Since the app does not collect personal data, there is no information to provide or delete.  
-If you have any questions, please contact us at: [kontakt@example.com](mailto:kontakt@example.com)
+If you have any questions, please contact us at: [visitkamienpomorski@op.pl](mailto:visitkamienpomorski@op.pl)
